@@ -10,7 +10,7 @@ This program will provide prompts to direct you and if you wish to truncate a fi
 containing many words or phrases, please ensure that the file is in the same folder
 as the program.
 
-This program is a .jar file, but has unfortuantely has no UI so to run it please 
+This program is a .jar file, but unfortuantely has no UI so to run it please 
 use the terminal/command prompt and navigate to the location of the .jar file 
 (using cd) and then run it using the command "java -jar StringTruncate.jar". On 
 windows please ensure that the Java path is set correctly before running the
